@@ -1,0 +1,1 @@
+inorder to run a glove embeding needs to be chosen for the glove.6B folder
